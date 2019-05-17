@@ -1,0 +1,13 @@
+{
+  "db": {
+    "host": "localhost",
+    "port": 5432,
+    "url": "postgres://postgres:postgres@localhost:5432/mydb?ssl=false",
+    "database": "mydb",
+    "password": "postgres",
+    "name": "db",
+    "connector": "postgresql",
+    "user": "postgres",
+    "ssl": false
+  }
+}
